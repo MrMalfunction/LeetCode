@@ -6,3 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(24 24.cpp)
 
 add_executable(34 34.cpp)
+
+
+add_executable(49 49.cpp)
