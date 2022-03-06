@@ -8,3 +8,4 @@
 |   84   | [Largest Rectangle in Histogram](/84.cpp) [`Code`]                          | <span style="color:green">Accepted</span> | 175 ms | 77.3 MB |
 |   38   | [Count and Say](/38.cpp) [`Code`]                                           | <span style="color:green">Accepted</span> | 8 ms   | 6.7 MB  |
 |   39   | [Combination Sum](/39.cpp) [`Code`]                                         | <span style="color:green">Accepted</span> | 58 ms  | 18.8 MB |
+|   40   | [Combination Sum II](/40.cpp) [`Code`]                                      | <span style="color:green">Accepted</span> | 32 ms  | 16.3 MB |
