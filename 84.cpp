@@ -1,4 +1,3 @@
-
 // Problem : 84.
 // Link : https://leetcode.com/problems/largest-rectangle-in-histogram/
 
