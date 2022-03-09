@@ -1,4 +1,4 @@
-// Problem : 84.
+// Problem : 84. Largest Rectangle in Histogram
 // Link : https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 #include <iostream>

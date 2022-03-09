@@ -1,5 +1,5 @@
-// Problem : 82.
-// Link :
+// Problem : 82. Remove Duplicates from Sorted List II
+// Link : https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 
 #include <iostream>
 #include <vector>
