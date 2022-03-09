@@ -12,3 +12,5 @@
 |   13   | [Roman to Integer](/13.cpp) [`Code`]                                        | <span style="color:green">Accepted</span> | 12bms  | 5.9 MB  |
 |   27   | [Remove Element](/27.cpp) [`Code`]                                          | <span style="color:green">Accepted</span> | 3 ms   | 8.6 MB  |
 |   82   | [Remove Duplicates from Sorted List II](/82.cpp) [`Code`]                   | <span style="color:green">Accepted</span> | 13 ms  | 11.2 MB |
+|   83   | [Remove Duplicates from Sorted List](/83.cpp) [`Code`]                      | <span style="color:green">Accepted</span> | 12 ms  | 11.4 MB |
+|   58   | [Length of Last Word](/58.cpp) [`Code`]                                     | <span style="color:green">Accepted</span> | 4 ms   | 6.4 MB  |
