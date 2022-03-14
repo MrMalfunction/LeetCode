@@ -15,3 +15,4 @@
 |   83   | [Remove Duplicates from Sorted List](/83.cpp) [`Code`]                      | <span style="color:green">Accepted</span> | 12 ms  | 11.4 MB |
 |   58   | [Length of Last Word](/58.cpp) [`Code`]                                     | <span style="color:green">Accepted</span> | 4 ms   | 6.4 MB  |
 |   28   | [Implement strStr()](/28.cpp) [`Code`]                                      | <span style="color:green">Accepted</span> | 4 ms   | 7.2 MB  |
+|   71   | [Simplify Path](/71.cpp) [`Code`]                                           | <span style="color:green">Accepted</span> | 16 ms  | 10.6 MB |
