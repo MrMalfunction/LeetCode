@@ -16,3 +16,4 @@
 |   58   | [Length of Last Word](/58.cpp) [`Code`]                                     | <span style="color:green">Accepted</span> | 4 ms   | 6.4 MB  |
 |   28   | [Implement strStr()](/28.cpp) [`Code`]                                      | <span style="color:green">Accepted</span> | 4 ms   | 7.2 MB  |
 |   71   | [Simplify Path](/71.cpp) [`Code`]                                           | <span style="color:green">Accepted</span> | 16 ms  | 10.6 MB |
+|  1249  | [Minimum Remove to Make Valid Parentheses](/1249.cpp) [`Code`]              | <span style="color:green">Accepted</span> | 40 ms  | 10.4 MB |
