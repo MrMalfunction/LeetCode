@@ -19,3 +19,4 @@
 |  1249  | [Minimum Remove to Make Valid Parentheses](/1249.cpp) [`Code`]              | <span style="color:green">Accepted</span> | 40 ms  | 10.4 MB |
 |  946   | [Validate Stack Sequences](/946.cpp) [`Code`]                               | <span style="color:green">Accepted</span> | 16 ms  | 15.4 MB |
 |  856   | [Score of Parentheses](/856.cpp) [`Code`]                                   | <span style="color:green">Accepted</span> | 3 ms   | 6.1 MB  |
+|  316   | [Remove Duplicate Letters](/316.cpp) [`Code`]                               | <span style="color:green">Accepted</span> | 5 ms   | 6.6 MB  |
