@@ -20,3 +20,4 @@
 |  946   | [Validate Stack Sequences](/946.cpp) [`Code`]                               | <span style="color:green">Accepted</span> | 16 ms  | 15.4 MB |
 |  856   | [Score of Parentheses](/856.cpp) [`Code`]                                   | <span style="color:green">Accepted</span> | 3 ms   | 6.1 MB  |
 |  316   | [Remove Duplicate Letters](/316.cpp) [`Code`]                               | <span style="color:green">Accepted</span> | 5 ms   | 6.6 MB  |
+|  895   | [Maximum Frequency Stack](/895.cpp) [`Code`]                                | <span style="color:green">Accepted</span> | 527 ms | 88 MB   |
