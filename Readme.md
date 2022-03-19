@@ -21,3 +21,4 @@
 |  856   | [Score of Parentheses](/856.cpp) [`Code`]                                   | <span style="color:green">Accepted</span> | 3 ms   | 6.1 MB  |
 |  316   | [Remove Duplicate Letters](/316.cpp) [`Code`]                               | <span style="color:green">Accepted</span> | 5 ms   | 6.6 MB  |
 |  895   | [Maximum Frequency Stack](/895.cpp) [`Code`]                                | <span style="color:green">Accepted</span> | 527 ms | 88 MB   |
+|   66   | [Plus One](/66.cpp) [`Code`]                                                | <span style="color:green">Accepted</span> | 0 ms   | 8.6 MB  |
