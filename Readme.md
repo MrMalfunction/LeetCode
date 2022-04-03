@@ -25,3 +25,4 @@
 |   74   | [Search a 2D Matrix](/74.cpp) [`Code`]                                      | <span style="color:green">Accepted</span> | 6 ms   | 9.6 MB  |
 |  344   | [Reverse String](/344.cpp) [`Code`]                                         | <span style="color:green">Accepted</span> | 18 ms  | 23.3 MB |
 |  344   | [Valid Palindrome II](/680.cpp) [`Code`]                                    | <span style="color:green">Accepted</span> | 67 ms  | 19.6 MB |
+|   31   | [Next Permutation](/31.cpp) [`Code`]                                        | <span style="color:green">Accepted</span> | 3  ms  | 11.9 MB |
