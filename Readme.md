@@ -31,3 +31,4 @@
 | 923    | [3Sum With Multiplicity](/923.cpp) [`Code`]                                     | <span style="color:green">Accepted</span> | 1538 ms | 10.7 MB |
 | 1046   | [Last Stone Weight](/1046.cpp) [`Code`]                                         | <span style="color:green">Accepted</span> | 0 ms    | 7.5 MB  |
 | 499    | [Battleships in a Board](/499.cpp) [`Code`]                                     | <span style="color:green">Accepted</span> | 3 ms    | 8.6 MB  |
+| 2160   | [Minimum Sum of Four Digit Number After Splitting Digits](/2160.cpp) [`Code`]   | <span style="color:green">Accepted</span> | 0 ms    | 6.34MB  |
